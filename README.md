@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arash
-- 👀 I’m interested in coding in Java, and I’m intent on working on projects involving it
+- 👀 I’m a Computer Science student
 - 🌱 I’m currently learning enhancing and mastering my programming skills in Java and Python but I am also trying to get invovled in other programming languages as well.  
 - 💞️ I’m looking to collaborate on exciting coding projects, particularly in data structures, algorithms  
 - 📫 How to reach me:
