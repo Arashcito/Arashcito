@@ -36,15 +36,7 @@ I'm a **Computer Science student** with a story that spans continents! Born in I
 
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arashcito&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arashcito&layout=compact&theme=tokyonight)
-
-</div>
 
 ## 🎭 Fun Facts About Me
 
@@ -86,8 +78,6 @@ I believe in:
 
 ### 🎯 Current Mission
 **Transforming caffeine into code, one commit at a time** ☕➡️💻
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arashcito&color=blueviolet&style=flat-square&label=Profile+Views)
 
 *"The journey from Tehran to Montreal taught me that the best algorithms for life are adaptability, persistence, and always keeping your code commented."* 🚀
 
