@@ -10,8 +10,8 @@
 
 I'm a **Computer Science student** with a story that spans continents! Born in Iran 🇮🇷 and now calling Montreal, Quebec 🇨🇦 home, I bring a unique perspective to the world of programming. When I'm not debugging code, you'll find me:
 
-- ⚽ **Watching football** (the beautiful game!) - probably arguing about who's the GOAT
-- ☕ **Sipping coffee or tea** - because good code needs good caffeine
+- ⚽ **Watching football** (the beautiful game!) - probably shouting and cheering for my team! 
+- ☕ **Sipping coffee or tea with friends** - perfect way of socializing in my opinion
 - 🧠 **Mastering new programming concepts** - one algorithm at a time
 - 🌍 **Exploring Montreal** - from Old Port to Mount Royal
 
