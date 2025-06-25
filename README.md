@@ -34,37 +34,7 @@ I'm a **Computer Science student** with a story that spans continents! Born in I
 
 </div>
 
-## 🎯 Featured Projects
 
-### 🏗️ **Pet Adoption Platform** 
-*Connecting hearts with paws* 🐾
-- Full-stack web application for pet adoption
-- Helping pets find their forever homes
-- **Tech**: HTML, CSS, JavaScript
-
-### 🎮 **Tower Defense Game**
-*Defend your territory!* 🛡️
-- Strategic tower defense game built with teamwork
-- Complex game mechanics and AI
-- **Tech**: C++
-
-### 🧮 **Number Matching Game**
-*Test your memory!* 🧠
-- Interactive grid-based memory game
-- Smart pairing algorithm
-- **Tech**: Python
-
-### ⚖️ **Parentheses Balancer**
-*Perfect balance in code* 📝
-- Stack-based algorithm for balanced parentheses
-- Handles wildcard characters
-- **Tech**: Java
-
-### 🌤️ **Weather App**
-*Stay ahead of the weather* 🌡️
-- Real-time weather information
-- Clean, intuitive interface
-- **Tech**: JavaScript
 
 ## 📊 GitHub Analytics
 
