@@ -1,11 +1,5 @@
 # Hey there! 👋 I'm Arash Shafiee
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%F0%9F%87%AE%F0%9F%87%B7+From+Iran+to+%F0%9F%87%A8%F0%9F%87%A6+Montreal;Computer+Science+Student;Java+%26+Python+Enthusiast;Football+Lover+%E2%9A%BD;Coffee+%26+Tea+Connoisseur+%E2%98%95)](https://git.io/typing-svg)
-
-</div>
-
 ## 🚀 About Me
 
 I'm a **Computer Science student** with a story that spans continents! Born in Iran 🇮🇷 and now calling Montreal, Quebec 🇨🇦 home, I bring a unique perspective to the world of programming. When I'm not debugging code, you'll find me:
