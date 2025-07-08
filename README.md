@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** with a story that spans continents! Born in Iran 🇮🇷 and now calling Montreal, Quebec 🇨🇦 home, I bring a unique perspective to the world of programming. When I'm not debugging code, you'll find me:
+I'm a **Computer Science student** !
+When I'm not working on code, you'll find me:
 
 - ⚽ **Watching football** (the beautiful game!) - probably shouting and cheering for my team! 
 - ☕ **Sipping coffee or tea with friends** - perfect way of socializing in my opinion
