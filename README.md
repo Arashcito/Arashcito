@@ -47,17 +47,6 @@ const arash = {
     motto: "Code with passion, debug with patience 🧘‍♂️"
 };
 ```
-
-## 🌟 What Drives Me
-
-> *"From the ancient streets of Iran to the modern skylines of Montreal, I've learned that great code, like great tea, takes time to brew to perfection."* ☕
-
-I believe in:
-- 🚀 **Continuous Learning** - Technology evolves, and so do I
-- 🤝 **Collaboration** - The best projects are built together
-- 🌍 **Global Perspective** - Bringing diverse viewpoints to tech solutions
-- ⚡ **Clean Code** - Because future-me will thank present-me
-
 ## 📬 Let's Connect!
 
 <div align="center">
