@@ -66,20 +66,3 @@ I believe in:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arashshafiee8282@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-### 🎯 Current Mission
-**Transforming caffeine into code, one commit at a time** ☕➡️💻
-
-*"The journey from Tehran to Montreal taught me that the best algorithms for life are adaptability, persistence, and always keeping your code commented."* 🚀
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
