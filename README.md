@@ -30,23 +30,6 @@ When I'm not working on code, you'll find me:
 </div>
 
 
-
-
-
-## 🎭 Fun Facts About Me
-
-```javascript
-const arash = {
-    location: "Montreal, Quebec 🇨🇦",
-    origin: "Iran 🇮🇷",
-    education: "Computer Science Student 📚",
-    beverages: ["Coffee ☕", "Tea 🍵"],
-    sports: ["Football ⚽"],
-    currentFocus: "Mastering Java & Python 💻",
-    dreamJob: "Software Engineer at a tech giant 🚀",
-    motto: "Code with passion, debug with patience 🧘‍♂️"
-};
-```
 ## 📬 Let's Connect!
 
 <div align="center">
